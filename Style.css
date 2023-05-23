@@ -1,10 +1,34 @@
-table,
-td {
-    border: 1px solid #333;
-}
 
-thead,
-tfoot {
-    background-color: #333;
-    color: #fff;
+.imgRedonda {
+    align-items:baseline;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    padding-left: 10px;
 }
+.personal{
+
+    background-color: rgb(74, 155, 227);
+    width: 45.0%;
+    height: 100%;
+    padding: bottom 5px;; }
+
+.pagina{
+    background-color: whitesmoke;
+    height: 11.5in;
+    width: 8.5in;
+    display: flex; }
+
+    .profesional{
+        margin: top 15px;
+        margin-left: 10px;
+        margin-right: 10px;  
+    }    
+
+h1,h2,h3,h4 {background-color: rgb(74, 155, 227
+    );
+    text-align: left;
+    width: 60%;
+   
+    
+}        
